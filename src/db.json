@@ -234,21 +234,15 @@
     "posts": [
         {
             "id": 1,
-            "userId": 9,
-            "title": "Have yeah time nearly.",
-            "body": "Morning factor protect hope. These oil read term agency back Democrat station. Stop both seek leader go political sister."
+            "userId": 1,
+            "title": "Updated Post Title",
+            "body": "This is the updated content."
         },
         {
             "id": 2,
             "userId": 5,
             "title": "Not board left teacher meet condition.",
             "body": "Nearly possible one item reason important. Heavy already start these security style."
-        },
-        {
-            "id": 3,
-            "userId": 2,
-            "title": "Director teacher information.",
-            "body": "Successful recently remember dream tend support sound. Parent might less society lose capital. Tend whatever friend view great must across. Recently everyone act law drive policy."
         },
         {
             "id": 4,
@@ -831,6 +825,66 @@
             "userId": 3,
             "title": "Scene thought someone perhaps others.",
             "body": "Probably wife early interesting remember current cover. Consumer success major wonder."
+        },
+        {
+            "title": "My New Post",
+            "body": "This is the content of my new post.",
+            "userId": 1,
+            "id": 101
+        },
+        {
+            "title": "My New Post",
+            "body": "This is the content of my new post.",
+            "userId": 1,
+            "id": 102
+        },
+        {
+            "title": "My New Post",
+            "body": "This is the content of my new post.",
+            "userId": 1,
+            "id": 103
+        },
+        {
+            "title": "My New Post",
+            "body": "This is the content of my new post.",
+            "userId": 1,
+            "id": 104
+        },
+        {
+            "title": "My New Post",
+            "body": "This is the content of my new post.",
+            "userId": 1,
+            "id": 105
+        },
+        {
+            "title": "My New Post",
+            "body": "This is the content of my new post.",
+            "userId": 1,
+            "id": 106
+        },
+        {
+            "title": "My New Post",
+            "body": "This is the content of my new post.",
+            "userId": 1,
+            "id": 107
+        },
+        {
+            "title": "My New Post",
+            "body": "This is the content of my new post.",
+            "userId": 1,
+            "id": 108
+        },
+        {
+            "title": "My New Post",
+            "body": "This is the content of my new post.",
+            "userId": 1,
+            "id": 109
+        },
+        {
+            "title": "My New Post",
+            "body": "This is the content of my new post.",
+            "userId": 1,
+            "id": 110
         }
     ],
     "comments": [
